@@ -8,7 +8,8 @@ def fich():
 
 
 def main():
-    print('Hi')
+    k = 5
+    print(k)
     ficha()
 
 
