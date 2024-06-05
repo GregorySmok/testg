@@ -2,6 +2,10 @@ def ficha():
     print('КУ КУ')
 
 
+def fich():
+    print('alfa')
+
+
 def main():
     print('Hi')
     ficha()
