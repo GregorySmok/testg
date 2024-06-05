@@ -1,5 +1,6 @@
 def ficha():
     print('КУ КУ')
+    print('ban')
 
 
 def fich():
