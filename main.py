@@ -1,15 +1,6 @@
-def ficha():
-    print('КУ КУ')
-    print('ban')
-
-
-def fich():
-    print('alfa')
-
-
 def main():
-    print('Hi')
-    ficha()
+    d = 5
+    print(d)
 
 
 if __name__ == '__main__':
